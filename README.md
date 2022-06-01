@@ -19,7 +19,7 @@ The `Scalar` is a type conforming to the `SIMDScalar` protocol,
 such as `Double, Float, Float16, Int, Int8, Int16, Int32, Int64,
 UInt, UInt8, UInt16, UInt32`, and `UInt64`.
 The `SIMD` protocol defines properties, methods, and operators
-for a SIMD vector of a fixed number of elements.
+for SIMD vectors.
 
 The cheat sheet shows the definition of each type and protocol,
 as well as sample code.
