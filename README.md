@@ -1,3 +1,5 @@
+
+
 # Swift SIMD Type Cheat Sheet
 
 In Swift, you can handle vectors, matrices, and quaternions,   ​​using the standard library SIMD vector types
@@ -6,7 +8,7 @@ They are related as shown in the figure below.
 
 This cheat sheet shows an overview and sample code for each type.
 
-- download `Swift SIMD Type Cheat Sheat`: [PDF](pdf/swift_vector_cheat_sheet.pdf "Cheat Sheat PDF file")
+- download `Swift SIMD Type Cheat Sheet`: [PDF](pdf/swift_vector_cheat_sheet.pdf "Cheat Sheet PDF file")
 
 ![Image](images/fig_simd_types.png)
 
